@@ -1,0 +1,3 @@
+Buat Database di XAMPP atau yang lain lalu Import db_pegawai.sql
+ke database setelah itu lakukan setting di file database.php yang
+ada di folder aplication/config
