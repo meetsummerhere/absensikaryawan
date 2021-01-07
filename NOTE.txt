@@ -1,0 +1,3 @@
+kalau udah di ekstrak , import databasenya
+kalau databasenya udah di ekstra tinggal jalanin aja di localhost
+
